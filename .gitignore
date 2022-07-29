@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/ignore
+/output
+
+
+.ipynb_checkpoints/
+core*
+.Renviron
+
