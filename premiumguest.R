@@ -34,7 +34,6 @@ replace_na_for_numeric_columns <- function(df){
 
 today <- format(Sys.Date(), "%d_%b") 
 
-
 start_time <- Sys.time()
 #  Loading data ------
 input_full <- read_excel("ignore/premiumguest/Input_26.07.xlsx") 
